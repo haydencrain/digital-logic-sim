@@ -1,3 +1,10 @@
+# Digital Logic Sim
+
+Inspiration from https://www.youtube.com/watch?v=QZwneRb-zqA&list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq&index=2&ab_channel=SebastianLague
+
+https://sebastian.itch.io/digital-logic-sim Copy this and make a web based version of it
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
