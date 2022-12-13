@@ -1,0 +1,19 @@
+.app {
+}
+
+.and {
+  background-color: red;
+  height: 50px;
+  width: 100px;
+}
+
+
+.node {
+  background-color:dimgrey;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+.node.on {
+  background-color: red;
+}
